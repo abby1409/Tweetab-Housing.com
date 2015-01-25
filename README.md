@@ -14,6 +14,7 @@ Copy the Files of the Repo inside the application folder of web2py.
 Navigate to http://127.0.0.1:8000/tweetab and voila you have a simple working model of twitter.
 
 *HOW TO USE*
+
 Open the Tweetab landing page as mentioned above. The Top Bar has 3 tabs: Tweet Dash, Profile and Lookup.
 Navigate to Tweet Dash Tab then you see a Login Window. New Users can register here by providing 
 their basic details. Once Logged in all your past tweets and the tweets by the people you are following 
